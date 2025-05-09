@@ -18,7 +18,6 @@ Contains all experimental files and models related to tweets.
 
 Each of these folders includes the following subdirectories:
 
----
 
 ###  Models
 
@@ -32,14 +31,12 @@ Includes trained machine learning models for attribute inference and privacy tra
 * **RNN**
   Recurrent neural network models trained for comparison and inference tasks.
 
----
 
 ### Check Similarity
 
 * Python scripts for comparing the semantic similarity between original and privacy preserving text.
 * Helps ensure that sanitized versions retain the meanin of the original posts.
 
----
 
 ### Replaced Words (Generating comments or Tweets)
 
